@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "amitav",
+      "email": "pandaamitav01@gmail.com",
+      "title": "my blog",
+      "description": "this is my description"
+    },
+    {
+      "id": 3,
+      "name": "bw",
+      "email": "pandabw01@gmail.com",
+      "title": "bw Title updated",
+      "description": "bw description"
+    },
+    {
+      "name": "Amitav Panda",
+      "email": "pandaamitav01@gmail.com",
+      "title": "React updated1",
+      "description": "React is love updated1",
+      "id": 5
+    },
+    {
+      "name": "Mom",
+      "email": "pandamom@gmail.com",
+      "title": "My mom blog",
+      "description": "mom description",
+      "id": 6
+    }
+  ]
+}
